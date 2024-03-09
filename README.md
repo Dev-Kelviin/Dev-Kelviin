@@ -7,5 +7,15 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Kelviin&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Kelviin&theme=radical&hide_border=false&&layout=compact"/>
+<hr>
+</div>
+
+
+<div align="center">
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin.oliveira.kjo@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Kelviin)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_k.el.vin/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-oliveira-7b1610288/)
 
 </div>
