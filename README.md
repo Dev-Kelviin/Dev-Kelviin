@@ -19,3 +19,5 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-oliveira-7b1610288/)
 
 </div>
+
+# ![snake gif](https://github.com/Dev-Kelviin/Dev-Kelviin/blob/output/github-contribution-grid-snake.gif)
