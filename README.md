@@ -20,4 +20,3 @@
 
 </div>
 
-![snake gif](https://github.com/Dev-Kelviin/Dev-Kelviin/blob/output/github-contribution-grid-snake.gif)
