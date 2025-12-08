@@ -6,24 +6,6 @@
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-Kelviin&show_icons=true&count_private=true&hide_border=true&title_color=8400F7&icon_color=8400F7&text_color=c9d1d9&bg_color=0d1117" alt="Kelvin Oliveira github stats" /> 
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Kelviin&layout=compact&hide_border=true&title_color=8400F7&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Kelviin&theme=radical&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
-
-
-<div align="center">
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=aiscript,angular,apple,arduino,bootstrap,c,css,dart,devto,docker,eclipse,express,figma,firebase,flutter,git,github,githubactions,gitlab,gradle,grafana,rabbitmq,html,ai,java,js,jquery,kubernetes,maven,mysql,mongodb,nestjs,nodejs,npm,postgres,postman,powershell,prisma,prometheus,pycharm,py,react,redis,spring,tailwind,ts,ubuntu,vite,vscode,windows&perline=10&theme=dark" />
