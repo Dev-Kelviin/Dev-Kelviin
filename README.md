@@ -2,11 +2,10 @@
   
 # 👋 Olá, Seja Bem-Vindo ao Meu Perfil!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Sou+Kelvin+Oliveira;Acad%C3%AAmico+de+Engenharia+de+Software;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia!" alt="Typing SVG" /></a>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -15,11 +14,11 @@
 💻 Acadêmico de **Engenharia de Software**  
 🔭 Explorando novas tecnologias e desenvolvendo soluções inovadoras  
 🌱 Sempre aprendendo e evoluindo  
-⚡ Apaixonado por desenvolvimento Full Stack e DevOps
+⚡ Apaixonado por desenvolvimento
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -37,7 +36,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -75,7 +74,5 @@
 <div align="center">
 
 ### ⭐ *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Kelviin&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
 </div>
