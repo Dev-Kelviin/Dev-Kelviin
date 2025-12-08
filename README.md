@@ -2,23 +2,7 @@
   
 # 👋 Olá, Seja Bem-Vindo ao Meu Perfil!
 
-
 </div>
-
-
-
-<div align="center">
-
-## 🚀 Sobre Mim
-
-💻 Acadêmico de **Engenharia de Software**  
-🔭 Explorando novas tecnologias e desenvolvendo soluções inovadoras  
-🌱 Sempre aprendendo e evoluindo  
-⚡ Apaixonado por desenvolvimento
-
-</div>
-
-
 
 <div align="center">
 
