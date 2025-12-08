@@ -12,20 +12,28 @@
 
 </div>
 
----
+
 
 <div align="center">
 
 ## 📫 Conecte-se Comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin.oliveira.kjo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-oliveira-7b1610288/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_k.el.vin/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Kelviin)
+<a href="mailto:kelvin.oliveira.kjo@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="45" height="45"/>
+</a>
+<a href="https://www.linkedin.com/in/kelvin-oliveira-7b1610288/" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+</a>
+<a href="https://www.instagram.com/_k.el.vin/" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" width="45" height="45"/>
+</a>
+<a href="https://github.com/Dev-Kelviin" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/000000/github.png" alt="GitHub" width="45" height="45"/>
+</a>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -35,7 +43,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
