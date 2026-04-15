@@ -18,18 +18,20 @@
 
 ## 📫 Conecte-se Comigo
 
-<a href="mailto:kelvin.oliveira.kjo@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="45" height="45"/>
-</a>
-<a href="https://www.linkedin.com/in/kelvin-oliveira-7b1610288/" target="_blank">
-  <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/>
-</a>
-<a href="https://www.instagram.com/_k.el.vin/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" width="45" height="45"/>
-</a>
-<a href="https://github.com/Dev-Kelviin" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/000000/github.png" alt="GitHub" width="45" height="45"/>
-</a>
+<p align="center">
+  <a href="mailto:kelvin.oliveira.kjo@gmail.com" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="45" style="display:inline-block;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kelvin-oliveira-7b1610288/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="45" style="display:inline-block;margin-left:16px;"/>
+  </a>
+  <a href="https://www.instagram.com/_k.el.vin/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="45" style="display:inline-block;margin-left:16px;"/>
+  </a>
+  <a href="https://github.com/Dev-Kelviin" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/000000/github.png" width="45" style="display:inline-block;margin-left:16px;"/>
+  </a>
+</p>
 
 </div>
 
